@@ -1,6 +1,7 @@
 import SwiftUI
 
 @available(macOS 11, *)
+@available(iOS 16, *)
 class FontManager {
     // Shared instance
     static let shared = FontManager()
